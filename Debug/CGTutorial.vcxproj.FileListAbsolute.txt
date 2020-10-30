@@ -1,0 +1,4 @@
+C:\Users\cfop2\Desktop\HTW\Other\CG project\Debug\CGTutorial.exe
+C:\Users\cfop2\Desktop\HTW\Other\CG project\Debug\CGTutorial.pdb
+C:\Users\cfop2\Desktop\Nguyen CG Project\Debug\CGTutorial.exe
+C:\Users\cfop2\Desktop\Nguyen CG Project\Debug\CGTutorial.pdb

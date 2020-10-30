@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1850,5): warning : The referenced project 'C:/Users/tj/Documents/OpenGL-tutorial_Binaries/external/GLEW_190.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1850,5): warning : The referenced project 'C:/Users/tj/Documents/OpenGL-tutorial_Binaries/external/GLFW_276.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1850,5): warning : The referenced project 'C:/Users/tj/Documents/OpenGL-tutorial_Binaries/ZERO_CHECK.vcxproj' does not exist.
+  CGTutorial.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\cfop2\Desktop\Nguyen CG Project\external\glfw-3.1.2\GLFW\glfw3.h(85): message : see previous definition of 'APIENTRY'
+C:\Users\cfop2\Desktop\Nguyen CG Project\CGTutorial.cpp(192,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\cfop2\Desktop\Nguyen CG Project\CGTutorial.cpp(389,32): warning C4305: '*=': truncation from 'double' to 'float'
+  CGTutorial.vcxproj -> C:\Users\cfop2\Desktop\Nguyen CG Project\Debug\CGTutorial.exe
